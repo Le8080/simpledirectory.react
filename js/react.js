@@ -1,6 +1,6 @@
 //import React, { Component } from 'react';
-const typeAPI = 'http://react/directorywebservicehandler.php?function=get_type';
-const directoriesurl = 'http://react/directorywebservicehandler.php?';
+const typeAPI = 'http://simpledirectory.minkyub.com/directorywebservicehandler.php?function=get_type';
+const directoriesurl = 'http://simpledirectory.mindkyub.com/directorywebservicehandler.php?';
 const getConfigs = {method : 'GET',
                     headers : { 'Accept' : 'application/json', 
                                 'Content-Type': 'application/json'}

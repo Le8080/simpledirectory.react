@@ -32,10 +32,10 @@ class DBobject{
      * TODO : fetching database credentials
      */
     private function __construct(){
-        $this->_host = 'localhost';
-        $this->_password = 'password';
-        $this->_username = 'root';
-        $this->_dbname = 'searchandsort';
+        $this->_host = 'mysql.hostinger.ph';
+        $this->_password = 'reactpassword';
+        $this->_username = 'u992986035_react';
+        $this->_dbname = 'u992986035_react';
         $this->_password = '';
 
        
