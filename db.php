@@ -32,11 +32,10 @@ class DBobject{
      * TODO : fetching database credentials
      */
     private function __construct(){
-        $this->_host = 'mysql.hostinger.ph';
-        $this->_password = 'reactpassword';
-        $this->_username = 'u992986035_react';
-        $this->_dbname = 'u992986035_react';
+        $this->_host = '';
         $this->_password = '';
+        $this->_username = '';
+        $this->_dbname = '';
 
        
         $connect = $this->__connect();
