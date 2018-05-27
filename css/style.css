@@ -1,0 +1,64 @@
+body{
+    background-color: #e0e0e0;
+}
+.directory{
+    padding: 35px;
+    padding-top: 38px;
+}
+.searchbutton{
+    background-color: #FFFFFF;
+    border: none;
+}
+.searchinput{
+    border: none;
+    border-bottom: 1px solid black;
+}
+.searchinput:focus{
+    border: none;
+    border-bottom: 1px solid black;
+    box-shadow: none;
+}
+.logo-txt{
+    font-size: 54px;
+    margin-top: -13px;
+    margin-left: 15px;
+    font-family: 'Oswald', serif;
+    letter-spacing: -6px;
+    color: #364c43;
+}
+.directory-header-info{
+    font-size: 18px;
+}
+.directory-info{
+    font-size: 14px;
+    color: #6b8e80;
+}
+.faicons{
+    font-size: 10px;
+    letter-spacing: 10px;
+}
+.list-group{
+    padding: 0px !important;
+}
+.list-group-item{
+    font-size: 16px;
+    line-height: 14px;
+}
+.container-fluid{
+    font-family: 'Open Sans Condensed',
+}
+.searchbutton{
+    background-color: #364c43;
+    color: white;
+}
+.directorylist ul li{
+    background-color: #ffffff00;
+    border-bottom: 1px solid #f7f7f7;
+}
+ul li{
+    background-color: #ffffff00 !important;
+    border-bottom: 1px solid #d4d2d29e !important;
+    font-size: 10px;
+    color: #364c43;
+}
+
